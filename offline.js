@@ -1,0 +1,33 @@
+﻿{
+	"version": 1781205966,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/nois-sheet0.png",
+		"images/bg.png",
+		"images/bg2.png",
+		"images/inimigo1-sheet0.png",
+		"images/bala-sheet0.png",
+		"images/voa-sheet0.png",
+		"images/atira-sheet0.png",
+		"images/reset-sheet0.png",
+		"images/inimigo2-sheet0.png",
+		"images/sprite-sheet0.png",
+		"media/boom.ogg",
+		"media/laser.ogg",
+		"media/caboom.ogg",
+		"media/musica1.ogg",
+		"media/musica2.ogg",
+		"media/musica3.ogg",
+		"media/musica4.ogg",
+		"media/musica5.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
